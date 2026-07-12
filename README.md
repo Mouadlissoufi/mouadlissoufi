@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:40A0D8&height=200&section=header&text=Mouad%20Lissoufi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Network%20%26%20Security%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-
 <a href="https://www.linkedin.com/in/mouad-lissoufi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
