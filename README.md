@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:40A0D8&height=200&section=header&text=Mouad%20Lissoufi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Network%20Systems%20Engineering%20Student%20%7C%20IT%20Technician&descAlignY=55&descSize=18" width="100%"/>
+
 <a href="https://www.linkedin.com/in/mouad-lissoufi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -20,7 +22,7 @@ I'm a **Network & Security Systems Engineer** based in Beni Mellal, Morocco, cur
 
 I work as an **IT/Helpdesk Technician**, and I build IT infrastructure and tooling projects on the side — asset management with **GLPI**, monitoring with **Zabbix**, **Active Directory** integrations, and some **C#/.NET** development on top.
 
-- 🔭 Currently working on infrastructure & security projects (AD, GLPI, Zabbix, SSL)
+- 💼 Working as a Helpdesk Technician at Mibtech Casablanca (1st level IT support, Active Directory, GLPI)
 - 🌱 Learning cybersecurity fundamentals and infrastructure automation
 - 🗣️ Arabic (native) · French · English · German (B2)
 - 📍 Beni Mellal, Morocco
@@ -97,6 +99,21 @@ WinForms chat client for the Llama API with login/admin panel and SQL-backed cha
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mouadlissoufi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mouadlissoufi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mouadlissoufi&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
 
 <br/>
 
